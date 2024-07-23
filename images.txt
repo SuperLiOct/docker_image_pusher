@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 juicedata/juicefs-csi-driver:v0.20.0
+#--platform=linux/arm64 juicedata/juicefs-csi-driver:v0.20.0
+--platform=linux/arm64 juicedata/mount:ce-v1.1.2
